@@ -1,6 +1,4 @@
 
 ### 北马量化工作室
 
-* 网址：[https://beima.xyz](https://beima.xyz)
-* CSDN：[https://blog.csdn.net/u010214511](https://blog.csdn.net/u010214511)
-* 公众号：北马量化
+[官网](https://beima.xyz) / [CSDN](https://blog.csdn.net/u010214511) / [雪球](https://xueqiu.com/u/beima) / [知乎](https://www.zhihu.com/people/plutoooo)
