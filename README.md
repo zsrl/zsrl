@@ -3,7 +3,7 @@
 
 #### 找到我
 
-[CSDN](https://blog.csdn.net/u010214511) / [飞书群](./DETAIL.md)
+[主页](https://beima.xyz/) / [CSDN](https://blog.csdn.net/u010214511) / [飞书群](./Group.md)
 
 #### 作品
 
