@@ -1,9 +1,7 @@
 
-### Hi，我是量化投资助手！
-
 #### 找到我
 
-[CSDN](https://blog.csdn.net/u010214511) / [飞书群](./Group.md)
+[CSDN](https://blog.csdn.net/u010214511) 
 
 #### 作品
 
