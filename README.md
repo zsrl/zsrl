@@ -4,7 +4,7 @@
 
 #### Find me
 
-[Home](https://www.quanthelper.cn/) / [CSDN](https://blog.csdn.net/u010214511) 
+[CSDN](https://blog.csdn.net/u010214511) / [Bilibili](https://space.bilibili.com/525058042)
 
 #### Projects
 
